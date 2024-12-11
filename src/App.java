@@ -4,6 +4,5 @@ public class App {
         System.out.println("Hola Jokin");
         System.out.println("Se me olvidaba decirte");
         System.out.println("Generando conflicto");
-        );
     }
 }
